@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TimeLine.unity
+    guid: dd0a8e520a12c094cb0e4050447316bf
+  - enabled: 1
+    path: Assets/Scenes/TimeLineHugo.unity
+    guid: eb22acd669a97c44c8b1a41edb8934c5
   m_configObjects: {}
